@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Tuscany-Villa", "..\..\WebSites\WebSite4\Tuscany-Villa\", "{42692080-7D13-4F24-A70F-EF527B3DACBC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60714"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\WebSite4\Tuscany-Villa\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60714\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60714"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\WebSite4\Tuscany-Villa\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60714\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60714"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42692080-7D13-4F24-A70F-EF527B3DACBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42692080-7D13-4F24-A70F-EF527B3DACBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
