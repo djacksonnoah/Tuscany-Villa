@@ -1,0 +1,149 @@
+﻿body {
+    text-align: center;
+}
+.headersmall {
+    font-style: oblique;
+}
+.topBox {
+    background-color: antiquewhite;
+    height: 75px;
+}
+.nav.nav-justified{
+    background-color: #fff;
+    margin: 0;
+}
+li.numberOne a{
+    text-align: right;
+}
+li.numberThree a{
+    text-align: left;
+}
+
+.firstBox {
+    background-image: url('images/tuscanVillaPicture1.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 250px;
+    position: center center;
+    font-size: 150%;
+    font-style: oblique;
+    color: white;
+}
+
+.secondBox {
+    background-image: url('images/TuscanMap.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 250px;
+    color: black;
+}
+
+.thirdBox {
+    background-color: antiquewhite;
+    height: 100px;
+    position: center center;
+    font-size: 75%;
+    font-style: oblique;
+    color: black;
+}
+
+.fourthBox {
+    background-image: url('images/tuscanPictureFourthBox.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 100px;
+    font-size: 75%;
+    font-style: oblique;
+    color: white;
+}
+
+.fifthBox {
+    background-image: url('images/tuscanPictureFifthBox.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 100px;
+    font-size: 75%;
+    font-style: oblique;
+    color: white;
+}
+
+.sixthBox {
+    background-image: url('images/tuscanPictureSixthBox.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 100px;
+    font-size: 75%;
+    font-style: oblique;
+    color: white;
+}
+
+.seventhBox {
+    background-image: url('images/tuscanPictureSeventhBox.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 100px;
+    font-size: 75%;
+    font-style: oblique;
+    color: white;
+}
+
+.eighthBox {
+    background-color: antiquewhite;
+    height: 100px;
+    font-size: 75%;
+    font-style: oblique;
+    color: black;
+}
+
+.ninethBox {
+    background-image: url('images/tuscanPictureNinethBox.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 100px;
+}
+
+.tenthBox {
+    background-color: antiquewhite;
+    height: 100px;
+    font-size: 75%;
+    font-style: oblique;
+    color: black;
+}
+
+.eleventhBox {
+    background-color: antiquewhite;
+    height: 100px;
+    font-size: 75%;
+    font-style: oblique;
+    color: black;
+}
+
+.twelvethBox {
+    background-image: url('images/tuscanPictureTwelvethBox.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 100px;
+}
+
+.thirteenthBox {
+    background-color: paleturquoise;
+    height: 100px;
+}
+
+.fourteenthBox {
+    background-color: white;
+    height: 100px;
+}
+.btn.btn-sm.btn-success.toprightbutton {
+    margin: 265px 65px;
+    background-color: #fff;
+    border-color: #cbcecc;
+    opacity: 0.9;
+    color: #444444;
+    border-radius: unset;
+    height: 60px;
+    width: 200px;
+}
+.subheadline{
+    font-size: small;
+}
